@@ -21,11 +21,11 @@ This project is a simple clone of the Netflix website created using HTML and CSS
 
 1. Clone the repository:
    ```bash
-   git clone [repository-link]
+   git clone https://github.com/shubhankarraj40/NetflixClone.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd netflix-clone
+   cd NetflixClone
    ```
 3. Open the `index.html` file in your preferred browser.
 
